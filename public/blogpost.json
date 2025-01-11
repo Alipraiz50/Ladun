@@ -1,0 +1,113 @@
+[
+    {
+      "id": 1,
+      "title": "Unlocking Creativity: A Journey Through Art and Innovation",
+      "subtitle": "Exploring the intersection of art, technology, and imagination to inspire innovation.",
+      "authorName": "Elena Artistry",
+      "image": "images/post_1.jpg",
+      "authorDesignation": "New York, USA",
+      "date": "26",
+      "month": "Sept",
+      "year": "2023"
+    },
+    {
+      "id": 2,
+      "title": "The Power of Colors: Painting Your Emotions",
+      "subtitle": "Discover how artists use colors to express their deepest emotions and connect with the audience.",
+      "authorName": "Vivian Colorista",
+      "image": "images/post_2.jpg",
+      "authorDesignation": "Los Angeles, USA",
+      "date": "25",
+      "month": "Sept",
+      "year": "2023"
+    },
+    {
+      "id": 3,
+      "title": "Capturing Beauty: Photography Tips for Beginners",
+      "subtitle": "Learn the basics of photography and how to take stunning shots with your camera or smartphone.",
+      "authorName": "David Shutterbug",
+      "image": "images/post_3.jpg",
+      "authorDesignation": "Paris, France",
+      "date": "23",
+      "month": "Sept",
+      "year": "2023"
+    },
+    {
+      "id": 4,
+      "title": "The Art of Storytelling: Writing Compelling Narratives",
+      "subtitle": "Crafting engaging stories that keep readers hooked from beginning to end.",
+      "authorName": "Olivia Wordsmith",
+      "image": "images/post_4.jpg",
+      "authorDesignation": "London, United Kingdom",
+      "date": "05",
+      "month": "Aug",
+      "year": "2023"
+    },
+    {
+      "id": 5,
+      "title": "Sculpting Dreams: A Sculptor's Journey to Mastery",
+      "subtitle": "From clay to masterpiece - the art of sculpting and shaping dreams into reality.",
+      "authorName": "Marcus Sculptorius",
+      "image": "images/post_5.jpg",
+      "authorDesignation": "Rome, Italy",
+      "date": "12",
+      "month": "Sept",
+      "year": "2023"
+    },
+    {
+      "id": 6,
+      "title": "Music that Moves: The Impact of Sound in Art",
+      "subtitle": "Exploring the fusion of music and visual art and how it evokes emotions in the audience.",
+      "authorName": "Melody Maestro",
+      "image": "images/post_6.jpg",
+      "authorDesignation": "Sydney, Australia",
+      "date": "18",
+      "month": "July",
+      "year": "2023"
+    },
+    {
+      "id": 7,
+      "title": "Abstract Art: A Journey into the Unknown",
+      "subtitle": "Diving deep into the world of abstract art and the endless possibilities it offers.",
+      "authorName": "Aria Abstraction",
+      "image": "images/post_7.jpg",
+      "authorDesignation": "Berlin, Germany",
+      "date": "22",
+      "month": "August",
+      "year": "2023"
+    },
+    {
+      "id": 8,
+      "title": "The Art of Culinary Creations: From Palette to Plate",
+      "subtitle": "Exploring the culinary arts and how chefs turn ingredients into edible works of art.",
+      "authorName": "Chef Gourmet",
+      "image": "images/post_8.jpg",
+      "authorDesignation": "Tokyo, Japan",
+      "date": "25",
+      "month": "Aug",
+      "year": "2023"
+    },
+    {
+      "id": 9,
+      "title": "Art in Nature: Landscaping Masterpieces",
+      "subtitle": "Discover the beauty of landscaping and how it transforms outdoor spaces into living art.",
+      "authorName": "Nina Landscaper",
+      "image": "images/post_9.jpg",
+      "authorDesignation": "Vancouver, Canada",
+      "date": "14",
+      "month": "Sept",
+      "year": "2023"
+    },
+    {
+      "id": 10,
+      "title": "The Art of Mindfulness: Finding Zen through Painting",
+      "subtitle": "Using art as a tool for mindfulness and self-discovery in a fast-paced world.",
+      "authorName": "Zen Artist",
+      "image": "images/post_10.jpg",
+      "authorDesignation": "Kyoto, Japan",
+      "date": "26",
+      "month": "Sept",
+      "year": "2023"
+    }
+  ]
+  
